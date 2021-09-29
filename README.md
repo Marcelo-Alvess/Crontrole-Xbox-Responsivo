@@ -1,4 +1,4 @@
-# Calculadora-IMC
+# Página responsiva Controle Xbox
 
 ## 💻 Projeto
 
